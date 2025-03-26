@@ -1,6 +1,6 @@
 # Machine Learning for the Social Sciences (GR5073)  
 Columbia University · Fall 2024  
-Instructor: [Name]
+Instructor: Instructor: Mazen Asaad, PhD
 
 This repository contains my coursework and applied modeling exercises from the class *Machine Learning for the Social Sciences* (GR5073, Section 001) at Columbia University. The class focused on applying supervised learning techniques to real-world social science data, covering both regression and classification tasks.
 
